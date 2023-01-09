@@ -1,0 +1,28 @@
+h1{
+    color: #AFEEEE;
+    text-align: center;
+    font-family: copperplate,fantasy;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+h3{
+    color: #AFEEEE;
+    text-align: center;
+    font-family: copperplate,fantasy;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+
+}
+
+#one{
+    text-align: center;
+    font-family: copperplate,fantasy;
+    align-items: center;
+}
+
+input{
+    text-align: center;
+}
+
+#ww{
+    background-image: url("C:/Users/mkcye/Downloads/bb.jpg");
+}
